@@ -1,8 +1,14 @@
 import React from 'react'
+import Index from './routes/Index'
+
+
 
 const App = () => {
+  
   return (
-    <div>App</div>
+    <>
+     <Index />
+    </>
   )
 }
 
