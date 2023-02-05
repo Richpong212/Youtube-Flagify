@@ -15,7 +15,7 @@ const Navbar = () => {
     >
        <Box>
         <NavLink to='/'>
-            <span>codeGintor</span>
+            <span>CodeGenitor</span>
         </NavLink>
        </Box>
        <Box
